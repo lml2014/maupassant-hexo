@@ -99,8 +99,8 @@ timeline:
     word: More
 
 # Static files
-js: js
-css: css
+js: illusion/js
+css: illusion/css
 
 # Theme version
 version: 0.0.0
