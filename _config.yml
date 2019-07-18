@@ -99,8 +99,8 @@ timeline:
     word: More
 
 # Static files
-js: https://lml2014.github.io/illusion/js
-css: https://lml2014.github.io/illusion/css
+js: js
+css: css
 
 # Theme version
 version: 0.0.0
